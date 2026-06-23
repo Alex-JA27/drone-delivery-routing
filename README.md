@@ -55,3 +55,6 @@ O((N + M) log N)
 warehouse = "A"
 destination1 = "C"
 destination2 = "E"
+
+Best route: A -> B -> C -> D -> E -> D -> B -> A
+Total distance: 14
